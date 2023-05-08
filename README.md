@@ -6,7 +6,7 @@
       kütüphanelerini kullanmaktayım.
 - 👯 Aktif olarak kendimi daha ileriye taşımak için örnek projeler yazıyorum.
 - 🥅 2023 Hedeflerim: Frontend geliştirmede kullanılan kütüphanelerde kendimi daha ileri seviyeye taşımak.
-- ⚡ Hobilerim: Yüzmeyi 🏊‍♀️, satranç oynamayı ♟ ve motosiklet sürmeyi severim 🚴‍♀️
+- ⚡ Hobilerim: Yüzmeyi 🏊‍♀️, satranç oynamayı ♟ ve motosiklet sürmeyi severim 🏍️
 
 
 
