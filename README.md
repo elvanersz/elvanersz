@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="280" />
 
-## Merhaba, Ben Elvan ERSÖZ, Full Stack Developer
+## Merhaba, Ben Elvan ERSÖZ, Backend Developer
 - 🔭 Uzun süredir kendimi web developer olarak geliştirmekteyim.
 - 🌱 Web geliştirmede backend kısmında java spring framework'unu, frontend kısmında ise JS 
       kütüphanelerini kullanmaktayım.
