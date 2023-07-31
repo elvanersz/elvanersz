@@ -2,7 +2,7 @@
 
 ## Merhaba, Ben Elvan ERSÖZ, Backend Developer
 - 🔭 Uzun süredir kendimi web developer olarak geliştirmekteyim.
-- 🌱 Web geliştirmede backend kısmında java spring framework'unu, frontend kısmında ise JS 
+- 🌱 Web geliştirmede backend kısmında Java Spring Framework'unu, frontend kısmında ise JS 
       kütüphanelerini kullanmaktayım.
 - 👯 Aktif olarak kendimi daha ileriye taşımak için örnek projeler yazıyorum.
 - 🥅 2023 Hedeflerim: Frontend geliştirmede kullanılan kütüphanelerde kendimi daha ileri seviyeye taşımak.
