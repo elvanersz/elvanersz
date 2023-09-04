@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="335" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="340" />
 
 ## Merhaba, Ben Elvan ERSÖZ, Backend Developer
 - 🔭 Uzun süredir kendimi web developer olarak geliştirmekteyim.
@@ -8,10 +8,14 @@
 - 🥅 2023 Hedeflerim: Frontend geliştirmede kullanılan kütüphanelerde kendimi daha ileri seviyeye taşımak.
 - ⚡ Hobilerim: Yüzmeyi 🏊‍♀, satranç oynamayı ♟ ve motosiklet sürmeyi severim 🏍️
 
+<br />
+
 ### 📩 Benimle iletişime geç:
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]<br />
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+
+<br />
 
 [instagram]: https://www.instagram.com/elvaners0z
 [linkedin]: https://www.linkedin.com/in/elvan-ers%C3%B6z-882674230/
