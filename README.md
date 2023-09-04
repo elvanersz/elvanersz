@@ -1,17 +1,16 @@
-## Merhaba, Ben Elvan ERSÖZ.
+## Hello, I'm Elvan ERSÖZ.
 
 ![](https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif)
 
-- 🔭 Uzun süredir kendimi web developer olarak geliştirmekteyim.
-- 🌱 Web geliştirmede backend kısmında Java Spring Framework'unu, frontend kısmında ise JS 
-      kütüphanelerini kullanmaktayım.
-- 👯 Aktif olarak kendimi daha ileriye taşımak için örnek projeler yazıyorum.
-- 🥅 2023 Hedeflerim: Frontend geliştirmede kullanılan kütüphanelerde kendimi daha ileri seviyeye taşımak.
-- ⚡ Hobilerim: Yüzmeyi 🏊‍♀, satranç oynamayı ♟ ve motosiklet sürmeyi severim 🏍️
+- 🔭 I have been developing myself as a web developer for a long time.
+- 🌱 In web development, I use Java Spring Framework in the backend and JS libraries in the frontend.
+- 👯 I write sample projects to improve myself.
+- 🥅 My goal for 2023: To take myself further in the libraries used in frontend development.
+- ⚡ My hobbies: I like to swim 🏊‍♀, play chess ♟ and ride a motorcycle 🏍️
 
 <br />
 
-### 📩 Benimle iletişime geç:
+### 📩 Contact me:
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
@@ -24,7 +23,7 @@
 
 
 
-### 🔧 Diller ve Araçlar:
+### 🔧 Languages and Tools:
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
