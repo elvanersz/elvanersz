@@ -5,12 +5,12 @@
 - 🔭 I have been developing myself as a web developer for a long time.
 - 🌱 In web development, I use Java Spring Framework in the backend and JS libraries in the frontend.
 - 👯 I write sample projects to improve myself.
-- 🥅 My goal for 2023: To take myself further in the libraries used in frontend development.
+- 🥅 My goal for 2023: To improve myself in the libraries used in frontend development.
 - ⚡ My hobbies: I like to swim 🏊‍♀, play chess ♟ and ride a motorcycle 🏍️
 
 <br />
 
-### 📩 Contact me:
+### 📩 Contact Me:
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
