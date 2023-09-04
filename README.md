@@ -1,4 +1,7 @@
-## Merhaba, Ben Elvan ERSÖZ, Backend Developer
+## Merhaba, Ben Elvan ERSÖZ.
+
+![](https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif)
+
 - 🔭 Uzun süredir kendimi web developer olarak geliştirmekteyim.
 - 🌱 Web geliştirmede backend kısmında Java Spring Framework'unu, frontend kısmında ise JS 
       kütüphanelerini kullanmaktayım.
@@ -37,3 +40,5 @@
 <br /><br />
 
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkuGlsvn&layout=compact&hide=python" alt="My Top Langs" />
+
+
