@@ -11,9 +11,9 @@
 <br />
 
 ### 📩 Contact Me:
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+[<img align="left" width="36px" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/7ec0263aa85f3574e01f301b7ec66a5c9c4d7412/svg/linkedin.svg" />][linkedin]
+[<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/7ec0263aa85f3574e01f301b7ec66a5c9c4d7412/svg/instagram.svg" />][instagram]
+[<img align="left" height="36" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 
 <br />
 
