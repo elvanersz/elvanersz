@@ -2,12 +2,6 @@
 
 ![](https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif)
 
-- 🔭 I have been developing myself as a web developer for a long time.
-- 🌱 In web development, I use Java Spring Framework in the backend and JS libraries in the frontend.
-- 👯 I write sample projects to improve myself.
-- 🥅 My goal for 2023: To improve myself in the libraries used in frontend development.
-- ⚡ My hobbies: I like to swim 🏊‍♀, play chess ♟ and ride a motorcycle 🏍️
-
 <br />
 
 ### 📩 Contact Me:
