@@ -6,12 +6,10 @@
 
 ### 📩 Contact Me:
 [<img align="left" width="36px" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/7ec0263aa85f3574e01f301b7ec66a5c9c4d7412/svg/linkedin.svg" />][linkedin]
-[<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/7ec0263aa85f3574e01f301b7ec66a5c9c4d7412/svg/instagram.svg" />][instagram]
 [<img align="left" height="36" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 
 <br />
 
-[instagram]: https://www.instagram.com/elvaners0z
 [linkedin]: https://www.linkedin.com/in/elvan-ers%C3%B6z-882674230/
 [gmail]: mailto:elvanersoz@outlook.com
 
